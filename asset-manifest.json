@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/algoport/static/css/main.b39f98f2.css",
+    "main.js": "/algoport/static/js/main.fb721550.js",
+    "static/js/787.31db6c66.chunk.js": "/algoport/static/js/787.31db6c66.chunk.js",
+    "static/media/av1.webp": "/algoport/static/media/av1.b8e8abe83186faaf940c.webp",
+    "static/media/logo.svg": "/algoport/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/algoport/index.html",
+    "main.b39f98f2.css.map": "/algoport/static/css/main.b39f98f2.css.map",
+    "main.fb721550.js.map": "/algoport/static/js/main.fb721550.js.map",
+    "787.31db6c66.chunk.js.map": "/algoport/static/js/787.31db6c66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39f98f2.css",
+    "static/js/main.fb721550.js"
+  ]
+}
