@@ -1,38 +1,162 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Nanum+Gothic+Coding&family=Roboto:wght@500&family=Share+Tech&family=Ubuntu:wght@300&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.divf {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+}
+
+.fDirC {
+  flex-direction: column;
+}
+
+.mainbg {
+  width: 100%;
+  min-height: 100vh;
+  background: #050505;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.card1 {
+  background: #0e0f0f;
+  border-radius: 1rem;
+  padding: 2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.tL {
+  text-align: left;
 }
+
+button{
+  cursor: pointer;
+}
+
+.sect1 {
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.prof1 {
+  width: 30vw;
+}
+
+.prof2 {
+  width: 40vw;
+  gap: 1rem;
+}
+
+.img1 {
+  width: 6rem;
+  height: auto;
+  border-radius: 50%;
+}
+
+.jusB{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.copL{
+  background: #1d1d1f;
+  color: white;
+  padding: 0.5rem;
+  border: none;
+  box-shadow: 0 0 0.1rem 0.03rem white;
+  border-radius: 50%;
+  font-size: 1rem;
+  /* flex-grow: 1; */
+  height: fit-content;
+  width: fit-content;
+}
+
+.prof11{
+  display: flex;
+  justify-content: left !important;
+  margin-top: 5rem;
+  gap: 1rem;
+  width: 100%;
+}
+
+.lgC{
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.fS{
+  font-size: 0.8rem;
+}
+
+.fSM{
+  font-size: 1rem;
+}
+
+.fM{
+  font-size: 1.7rem;
+}
+
+.fL{
+  font-size: 2.5rem;
+}
+
+.copL2{
+  border-radius: 0.3rem;
+  padding: 0.5rem;
+  box-shadow: none;
+}
+
+.jusL{
+  align-items: start;
+  /* width: 100%; */
+}
+
+.wFull{
+  width: 100%;
+}
+
+.prof2 div{
+  gap: 1rem;
+}
+
+
+.sect2{
+gap: 1rem;
+    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
+    width: 80vw;
+}
+
+.c1{
+  width: 20rem;
+  height: 15rem;
+  border-radius: 1rem;
+  gap: 60%;
+}
+
+.cG{
+  background: #7cfea3;
+  color: black;
+}
+
+.cB{
+  background: #1d9bf0;
+  color: white;
+}
+
+.c1 p{
+  width: 100%;
+}
+
+
+
+
+
+
+
